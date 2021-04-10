@@ -7,7 +7,7 @@
 💻 I'm a Software Engineer at `Teravin Technovations`
 
 - ⚙️ Stack: `Javascript`, `ReactJs`, `NodeJs`, `TypeScript`, `React Native`
-- 🏢 I'm currently working on some **React Native Projecs**
+- 🏢 I'm currently working on some **React Native Projects**
 - 🌱 I'm currently learning about Kotlin
 - 📫 Stay in Bogor, Indonesia
 
