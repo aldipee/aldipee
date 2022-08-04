@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=aldipee&show_icons=false">
 
-💻 I'm a Software Engineer at `Teravin Technovations`
+💻 I'm a Software Engineer 
 
 - ⚙️ Stack: `Javascript`, `ReactJs`, `NodeJs`, `TypeScript`, `React Native`
 - 🏢 I'm currently working on some **React Native Projects**
