@@ -6,8 +6,8 @@
 
 💻 I'm a Software Engineer 
 
-- ⚙️ Stack: `Javascript`, `ReactJs`, `NodeJs`, `TypeScript`, `React Native`
-- 🏢 I'm currently working on some **React Native Projects**
+- ⚙️ Stack: `Java`, `Spring Boot`, `Javascript`, `ReactJs`, `NodeJs`, `TypeScript`, `React Native`
+- 🏢 I'm currently working on some **Spring Boot Project**
 - 🌱 I'm currently learning about Kotlin
 - 📫 Stay in Bogor, Indonesia
 
